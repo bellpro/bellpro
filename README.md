@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-velog-brightgreen?style=plastic&logo=Vector Logo Zone&logoColor=white/url?url=https://velog.io/@kju190920">
+<img src="https://img.shields.io/badge/-velog-brightgreen?style=plastic&logo=Vector Logo Zone&logoColor=white&link=https://velog.io/@kju190920">
 
 
 
