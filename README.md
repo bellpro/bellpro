@@ -5,6 +5,15 @@
 
 ### Hi there 👋
 
+# 💪 Skills
+### Languages & Platforms 
+<img src="https://img.shields.io/badge/-java-lightgrey?style=plastic&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-Spring-green?style=plastic&logo=spring&logoColor=white">
+
+
+<!--
+http://img.shields.io/badge/-표시할뱃지이름(임의)-색상코드(#제외)?style=(스타일)&logo=(로고)&link=(링크)
+-->
 <!--
 **bellpro/bellpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
